@@ -4,5 +4,8 @@ A game where you must find a spaghetti sauce recipe by deciphering the most obno
 
 Hope you know Lua, maybe Python, and JavaScript!
 
-Credits:
+### Credits:
+
+Fengari:
+
 http://fengari.io | https://GitHub.com/fengari-lua/fengari-web
