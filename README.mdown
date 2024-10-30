@@ -3,3 +3,6 @@
 A game where you must find a spaghetti sauce recipe by deciphering the most obnoxious code ever: the games own source code!
 
 Hope you know Lua, maybe Python, and JavaScript!
+
+Credits:
+http://fengari.io | https://GitHub.com/fengari-lua/fengari-web
